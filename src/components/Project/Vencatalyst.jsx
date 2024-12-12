@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import Image2 from '../../images/vencatalyst/vencatalyst2.png';
-import Image3 from '../../images/vencatalyst/vencatalyst3.png';
+import Image3 from '../../images/vencatalyst/Vencatalyst3.png';
 import Image4 from '../../images/vencatalyst.png';
 import { AnimatePresence, motion as m } from 'motion/react';
 import { Link } from 'lucide-react';
